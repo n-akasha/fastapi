@@ -1,3 +1,30 @@
-<img src="https://img.shields.io/badge/DOCKER-black?style=for-the-badge&logo=Docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python&logoColor=gold"/>
-<img src="https://img.shields.io/badge/FASTAPI-black?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+fastapi
+================
+
+## Table of Contents
+- [.dockerignore](#.dockerignore)
+- [CHANGELOG.md](#changelog.md)
+- [compose.yaml](#compose.yaml)
+- [Dockerfile](#dockerfile)
+- [main.py](#main.py)
+- [requirements.txt](#requirements.txt)
+
+
+## [.dockerignore](./.dockerignore)
+Brief description of the file
+
+## [CHANGELOG.md](./CHANGELOG.md)
+Brief description of the file
+
+## [compose.yaml](./compose.yaml)
+Brief description of the file
+
+## [Dockerfile](./Dockerfile)
+Brief description of the file
+
+## [main.py](./main.py)
+Brief description of the file
+
+## [requirements.txt](./requirements.txt)
+Brief description of the file
+
